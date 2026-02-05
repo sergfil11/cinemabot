@@ -1,0 +1,6 @@
+BOT_TOKEN = '0'
+START_MSG = 'a'
+HELP_MSG = 'b'
+google_api_2 = 'sdasdasd'
+SEARCH_ENGINE_API = 'sdad'
+KINOPOISK_API = 'pupupu'
